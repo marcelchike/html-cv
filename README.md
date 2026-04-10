@@ -1,2 +1,2 @@
 # html-cv
-this is a waLK through of creating a html cv
+this is a walk through, creating a html cv
